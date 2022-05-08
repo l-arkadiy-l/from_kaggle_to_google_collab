@@ -1,4 +1,4 @@
-# install_kaggle_datasets
+# from_kaggle_to_google_collab
 I created this post for people wich can't understand how to install datasets from kaggle to google collab.
 
 Let's get start.
