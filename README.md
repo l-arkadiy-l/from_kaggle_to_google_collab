@@ -48,6 +48,6 @@ with zipfile.ZipFile(path_to_zip_file, 'r') as z:
     z.extractall('HAM10000_images_part_1')
 ```
 
-6. Try download your dataset and if you will have problems with it you can write their in issues :)
+6. Try downloading your dataset, and if you have any problems with it, you can write them in the questions :)
 
 file settings in **[collab](https://colab.research.google.com/drive/1AcjQi-xzS1m_3dvSYJFoemJRo5KQH1a2?usp=sharing)**
